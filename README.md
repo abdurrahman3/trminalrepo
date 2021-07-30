@@ -1,0 +1,2 @@
+# trminalrepo
+Repository For Practice
